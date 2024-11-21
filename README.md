@@ -1,2 +1,3 @@
-# mytechian
-my first github repository
+# mytechnion
+its my first git hub repository
+
